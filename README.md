@@ -11,7 +11,7 @@
 - https://github.com/RMSnow/WWW2021
 - feature generation : emotion
 
-### output
+### Output
 - preprocess/content_arr_{}
 - preprocess/embedding_matrix_{}
-- emotion_arr_{}
+- preprocess/emotion_arr_{}
