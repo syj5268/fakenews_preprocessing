@@ -1,7 +1,6 @@
 ## FakeNewsNet
 - https://github.com/KaiDMML/FakeNewsNet
 - dataset
-- 
 
 ## DECOR
 - https://github.com/jiayingwu19/decor
